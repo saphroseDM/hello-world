@@ -1,2 +1,3 @@
 # hello-world
 A repository to practice GitHub Flow
+Just a bit about myself to introduce changes...
